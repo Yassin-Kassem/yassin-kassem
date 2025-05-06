@@ -29,7 +29,6 @@ I'm a second-year Computer Science student at the German International Universit
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 🗄️ **Databases**
@@ -49,17 +48,7 @@ I'm a second-year Computer Science student at the German International Universit
 
 ## 🌐 Connect With Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
-- 🌍 Portfolio: [Your Portfolio Website](https://yourwebsite.com)
-
----
-
-## 📌 Fun Facts
-
-- ☕ Fueled by coffee and curiosity.  
-- 🎮 Avid gamer, always up for a coding or gaming challenge.  
-- 📖 Lifelong learner, currently reading about AI ethics and scalable systems.
+- 📧 Email: yassinkassem29@gmail.com  
 
 ---
 

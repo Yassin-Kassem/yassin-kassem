@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Welcome to My GitHub!
 I'm a second-year Computer Science student at the German International University (GIU), driven by a passion for software engineering and AI-powered development. I love building impactful, user-focused solutions and exploring innovative technologies to solve real-world problems.
 🌟 Currently, I'm working on an official application for my university, enhancing my skills in full-stack development, and diving deep into AI-powered development to create intelligent, scalable systems.
@@ -13,35 +11,12 @@ I'm a second-year Computer Science student at the German International Universit
 
 
 🛠️ Tech Stack
-
-
-
 Languages
+PythonJavaJavaScriptC++
 Frameworks & Tools
+ReactExpress
 Databases
-
-
-
-Python
-React
 SQL
-
-
-Java
-Express
-
-
-
-JavaScript
-
-
-
-
-C++
-
-
-
-
 
 💻 What I'm Working On
 
@@ -64,3 +39,4 @@ C++
 📖 Lifelong learner, currently reading about AI ethics and scalable systems.
 
 Thanks for visiting! Let's build something amazing together! 🚀
+

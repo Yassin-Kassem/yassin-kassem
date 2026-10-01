@@ -1,79 +1,48 @@
-# 👋 Welcome to My GitHub!
+# Yassin Kassem
 
-I'm Yassin Kassem, a Computer Science student at the German International University (GIU) with a strong focus on software engineering, full-stack development, and AI-powered applications. I enjoy building real-world, user-focused products — from mobile apps and scalable web platforms to intelligent systems powered by machine learning.
+Software engineer and Computer Science student at the German International University in Cairo (graduating June 2027). I build full-stack and AI-powered products, from mobile apps to backend systems, and ship them to real users.
 
-I’m especially interested in the intersection of product thinking, backend architecture, and AI integration.
+I'm most interested in where product thinking, backend architecture, and AI meet: systems that work reliably, not just demos.
 
----
+## Now
 
-## 🚀 About Me
+- Freelance full-stack and AI engineer since 2024
+- Co-founder of Thryv, an AI fitness app live on the App Store
+- Writing my thesis at GIU
+- Open to remote full-stack and AI engineering roles
 
-- 🎓 Computer Science student at the GIU  
-- 💻 Passionate about software engineering and full-stack development
-- 🤖 Focused on AI-powered development, NLP, and intelligent systems  
-- 📱 Experienced in mobile app development using Flutter & Expo  
-- 🌐 Building scalable web platforms, dashboards, and backend systems  
-- 🌱 Constantly learning new frameworks, tools, and architectures  
+## Selected work
 
----
+**[Thryv](https://thryv-fitness.com)** · AI fitness app · [App Store](https://apps.apple.com/us/app/thryv-fitness/id6758890293)
+Workout tracking, a 1,000+ food nutrition database, body progress monitoring, and a gym finder. 400+ active users in production. Expo React Native, TypeScript, Supabase (PostgreSQL, Auth, Storage), CI/CD with GitHub Actions.
 
-## 🛠️ Tech Stack
+**[TeacherFyndr](https://teacherfyndr.com)** · Education hiring marketplace
+Two-sided marketplace connecting schools and teachers, with a role-based PostgreSQL schema and multi-tenant row-level security. Next.js, Supabase, Tailwind, shadcn/ui.
 
-### 👨‍💻 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**[Mumblr](https://github.com/Yassin-Kassem/mumblr)** · Local-first speech-to-text for Windows
+Real-time, offline transcription using faster-whisper on CUDA, with a system tray and global hotkey. Python, PySide6.
 
-### 🌐 **Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**HR management platform** · Client project (private)
+Replaced a client's Odoo subscription. Next.js and Supabase, plus a FastAPI service that uses the OpenAI API to write narrative performance summaries for board-level readers.
 
-### 🧰 **Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**WhatsApp booking assistant** · Private
+An n8n workflow that answers customer messages with an LLM grounded by retrieval-augmented generation over business data, and handles bookings inside the chat.
 
-### 🗄️ **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Supabase DB](https://img.shields.io/badge/-Supabase%20Postgres-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+**NYC Motor Vehicle Collisions Dashboard**
+Interactive dashboard over 1M+ collision records, with a Pandas cleaning pipeline. Python, Dash, Plotly, deployed on Render.
 
-### 🤖 **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-154F5B?style=flat-square)
-![Google%20ML%20Kit](https://img.shields.io/badge/-Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![TFLite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+## Stack
 
----
+| | |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, Java, C++, SQL, Dart |
+| Frontend and mobile | React, Next.js, Expo React Native, Flutter, Tailwind, shadcn/ui |
+| Backend | Node.js, Express, FastAPI, REST APIs |
+| Data | PostgreSQL, MongoDB, Firebase, MySQL, Cassandra, Pandas, NumPy, Plotly, Power BI |
+| AI | OpenAI API, Claude API, RAG, prompt engineering, faster-whisper, n8n |
+| Cloud and tooling | AWS (S3, CloudFront, EC2, IAM, VPC), Docker, GitHub Actions, Vercel, Render, Git |
 
-## 💡 Interests
+## Contact
 
-- 📱 Mobile app development and user-focused product design  
-- 🌐 Full-stack web platforms and scalable backend systems  
-- 🤖 AI assistants, recommendation systems, and automation tools  
-- 📊 System design, architecture, and performance optimization  
-- 🎯 Building real-world products that solve practical problems  
+[yassinkassem29@gmail.com](mailto:yassinkassem29@gmail.com) · [LinkedIn](https://linkedin.com/in/yassin-kassem)
 
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: yassinkassem29@gmail.com  
-
----
-
-Thanks for visiting! Let's build something impactful 🚀
